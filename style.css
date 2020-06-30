@@ -63,6 +63,7 @@ body {
     margin-right: 2rem;
     margin-top: -15px;
     font-size: 18px;
+    line-height: 1.5;
 }
 
 .notes_1 input[type="text"] {
